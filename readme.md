@@ -1,5 +1,5 @@
 
-Laravel带RBAC权限的通用后台
+Laravel带RBAC权限的通用后台，基于Laravel5.5+Hui3.1+Mysql
 
 ![avatar](http://m.qpic.cn/psb?/dc74308a-621f-4333-bdaf-1ced2c3e5319/2fULcUPXzz9qHGPWs.0iG6PKAdZBOsCJG5N8nPcADuc!/b/dDIBAAAAAAAA&bo=gAfVAgAAAAADB3I!&rf=viewer_4)
 
