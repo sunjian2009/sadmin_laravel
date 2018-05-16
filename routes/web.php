@@ -17,7 +17,7 @@
 Route::group(['middleware' => 'admin', 'namespace' => 'Admin', 'prefix' => 'admin'], function() {
     //基础路由
     Route::get('/', 'IndexController@index');
-    Route::post('login', 'PublicController@login');
+    Route::any('login', 'PublicController@login');
     Route::any('logout', 'PublicController@login');
     Route::any('adminPassword', 'UserController@adminPassword');
     Route::any('profile', 'UserController@profile');
