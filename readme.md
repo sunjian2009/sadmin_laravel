@@ -1,6 +1,8 @@
 
 Laravel带RBAC权限的通用后台，基于Laravel5.5+Hui3.1+Mysql。(账号：admin 密码：123456)
 <br/>
+这个系统是为了方便大家beego开发后台，节省时间，把更多得时间经历集中再业务逻辑。这种通用后台，平时开发新项目基本上后台管理这块大部分工作是复制粘贴
+<br/>
 Beego+Hui3.1+Mysql的实现版本https://github.com/sunjian2009/sadmin_beego.git（抽时间从项目中剥离发上来）
 
 ![avatar](http://m.qpic.cn/psb?/dc74308a-621f-4333-bdaf-1ced2c3e5319/2fULcUPXzz9qHGPWs.0iG6PKAdZBOsCJG5N8nPcADuc!/b/dDIBAAAAAAAA&bo=gAfVAgAAAAADB3I!&rf=viewer_4)
